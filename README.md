@@ -304,7 +304,7 @@ airbnb-price-scenario-analysis/
 │   └── reviews.csv
 │
 └── Documentation/
-    └── PROJECT DOCUMENTATION(1)_with_Full_Automatic_TOC.docx
+    └── PROJECT DOCUMENTATION.docx
 ```
 
 Additional project reference files may also be included where appropriate.
