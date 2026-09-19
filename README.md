@@ -230,10 +230,10 @@ The Seasonal Multiplier allows users to simulate changes in pricing.
 
 The current parameter uses:
 
-- Minimum: 0.50
-- Maximum: 2.00
-- Increment: 0.05
-- Default: 1.00
+- Minimum: 50
+- Maximum: 200
+- Increment: 5
+- Default: 100
 
 ### Scenario Logic
 
