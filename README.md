@@ -307,10 +307,6 @@ airbnb-price-scenario-analysis/
     └── PROJECT DOCUMENTATION.docx
 ```
 
-Additional project reference files may also be included where appropriate.
-
----
-
 ## 11. How to Use the Dashboard
 
 1. Open the Power BI `.pbix` file in Power BI Desktop.
